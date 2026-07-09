@@ -1,0 +1,21 @@
+Total Employees
+================
+
+Total Employees = COUNT(employees[EmployeeNumber])
+
+
+Attrition Count
+================
+
+Attrition Count = 
+CALCULATE(
+COUNT(employees[EmployeeNumber]),
+employees[Attrition]="Yes"
+)
+
+
+Attrition Rate
+===============
+
+Attrition Rate = 
+DIVIDE([Attrition Count],[Total Employees]) 

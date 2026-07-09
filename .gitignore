@@ -1,0 +1,10 @@
+desktop.ini
+*.pptx
+*.docx
+.vscode/
+Thumbs.db
+*.log
+*.pbi.local
+~$*.docx
+~$*.pptx
+~$*.xlsx
