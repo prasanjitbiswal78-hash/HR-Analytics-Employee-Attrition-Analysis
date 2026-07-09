@@ -153,8 +153,8 @@ The dashboard consists of interactive visualizations that provide comprehensive 
 * Cross-Filtering Across Visuals
 * Interactive Charts
 * Dynamic Dashboard Navigation
+![alt text](Screenshots/Dashboard_Full.png)
 
-![Dashboard Preview](./screenshots/Dashboard_Full.png)
 ##  📊 Dashboard Insights
 
 * Provides an overview of employee attrition across the organization.
