@@ -271,5 +271,5 @@ By combining SQL analysis with Power BI visualization, the dashboard provides me
 
 Data Analyst Internship Project
 
-* 📧 Email: [prasanjitbiswal78@gmail.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/prasanjit-biswal-7020a1333](https://linkedin.com/in/your-linkedin-id)
+* 📧 Email: [prasanjitbiswal78@gmail.com](mailto:prasanjitbiswal78@gmail.com)
+* 💼 [LinkedIn](https://linkedin.com/in/prasanjit-biswal-7020a1333)
